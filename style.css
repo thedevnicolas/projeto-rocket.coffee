@@ -65,8 +65,10 @@ section h2 {
     background-color: #8EBFDA;
     padding: 8px 16px;
     text-align: center;
-
     margin-bottom: 24px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
 }
 
 ul li {
@@ -82,7 +84,10 @@ li .details {
     margin-bottom: 8px;
 }
 
-
+.icon {
+    width: 30px;
+    padding-left: 5px;
+}
 
 
 /* display: flex;  entende que um elemento ira ficar de 1 lado e outro de outro, que elementos?
