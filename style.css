@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body h1 {
+    font-family: 'Playfair Display SC', serif;
+}
+
+body p {
+font-family: 'Merriweather', serif;
+}
+
+section h2 {
+    font-family: 'Playfair Display SC', serif;
+}
+
+section h3 {
+        font-family: 'Josefin Sans', sans-serif;
+}
+
+section p {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+}
+
+header p {
+    font-family: 'Slabo', serif;
+    font-size: 16px;
+}
+
+
+body {
+    background: #B9D9EB
+    
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    padding: 32px 0;
+    text-align: center; 
+}
+
+header, section {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+header h1 {
+    margin-bottom: 4px;
+}
+
+header h1 span {
+color: #185578
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+section h2 {
+    background-color: #8EBFDA;
+    padding: 8px 16px;
+    text-align: center;
+
+    margin-bottom: 24px;
+}
+
+ul li {
+    margin-bottom: 16px;
+    display: flex; 
+}
+
+li .details {
+    max-width: 240px;
+}
+
+.details h3 {
+    margin-bottom: 8px;
+}
+
+
+
+
+/* display: flex;  entende que um elemento ira ficar de 1 lado e outro de outro, que elementos?
+os filhos da caixa, no caso da caixa li */
+
+/* margin: 0 auto; agrupa  margin-left: auto; e margin-right: auto; */
+
+/* text-align: center;  deixa meu header centralizado no meio da tela */
