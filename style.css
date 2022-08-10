@@ -22,19 +22,19 @@ section h3 {
 }
 
 section p {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
     color: #433B5A;
 }
 
 header p {
-    font-family: 'Slabo', serif;
-    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #433B5A;
 }
 
 body {
     background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
-    
 }
 
 
@@ -66,7 +66,7 @@ section {
 }
 
 section h2 {
-    background-color: #977CD1;
+    background-color: #A98AEA;
     padding: 8px 16px;
     text-align: center;
     margin-bottom: 24px;
@@ -93,13 +93,3 @@ li .details {
     width: 33px;
     padding-left: 5px;
 }
-
-
-
-
-/* display: flex;  entende que um elemento ira ficar de 1 lado e outro de outro, que elementos?
-os filhos da caixa, no caso da caixa li */
-
-/* margin: 0 auto; agrupa  margin-left: auto; e margin-right: auto; */
-
-/* text-align: center;  deixa meu header centralizado no meio da tela */
