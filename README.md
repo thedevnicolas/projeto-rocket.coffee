@@ -1,6 +1,6 @@
 # **RocketCoffee**
 
-Projeto proposto na Maratona Explorer 3.0, promovido pela RocketSeat para o desenvolvimento de uma página destinada a um cardapio digital com QRCode.
+Projeto proposto na Maratona Explorer 3.0, promovido pela RocketSeat para o desenvolvimento de uma página destinada a um cardápio digital com QRCode.
 
 ## **Para acessar o site, [*clique aqui*](https://thedevnicolas.github.io/projeto-rocket.coffee/)**
 
